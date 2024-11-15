@@ -1,0 +1,89 @@
+#+TITLE: House Rent App Demo
+#+AUTHOR: satz
+#+DATE: <2024-11-10>
+#+OPTIONS: toc:nil num:nil
+[[https://i.pinimg.com/originals/17/1b/a6/171ba6c14f52ed9c4864827fa75a6ed0.jpg]]
+
+* User Registration
+
+** EmailID
+sivarn782@gmail.com
+
+** Password
+MyPassword@3121
+
+** Passphrase
+rpass
+
+* Updating Profile
+
+** Users can update:
+  + *Name*
+  + *Username*
+  + *Profile picture*
+  + *Legal Verification ID*
+  + *Contact Number*
+
+* Requesting to become an Owner
+** Requirements:
+  + *Contact Number*
+
+** Two verification paths:
+ 1. Manual review by admin
+ 2. Instant approval with legal verification ID (similar to KYC/Aadhar verification)
+
+**** Verification ID
+v9fxvdfgao017xes
+
+
+* Search For Properties
+You can search for properties by entering an address. The system will translate the address into geocode (latitude and longitude) and search for nearby properties within a given radius.
+
+- Filter options:
+  - Rent range
+  - Property type
+  - Amenities
+  - Number of bedrooms
+
+* Requesting Property
+To request a property, fill out the request form and send it to the property owner. Once the owner accepts the request, both user and the owner can chat and finalize the agreement.
+
+* Admin Approving Owner Request
+Admins can review all owner requests in the admin panel. They will then approve or reject the requests based on their review.
+
+* Adding Property
+To add a property, fill in the required details.
+
+** Manual Approval
+If a valid legal document ID is provided, the property will be approved automatically. Otherwise, the property will be put on a waiting list for admin approval.
+
+** Adding Property using LegalDocId
+
+**** Document ID
+acbaffhgsd8109
+
+
+* Admin Approving Property Request
+Admins can review and approve property listings in the "Properties" section of the admin panel.
+
+
+* Updating Property
+If a property does not have a valid legal document ID, it will be put on a waiting list after any major changes (e.g., rent, number of bedrooms, property type). If the property has a valid legal document ID, it will be automatically approved after edits.
+
+
+* Finalizing Agreement
+1. Owner can receive multiple requests
+2. Owner sends agreement with:
+   - Rent amount
+   - Rental duration
+   - Optional Note
+
+3. User pays booking fee (Rs. 500)
+4. System generates legal contract
+5. Other requests are automatically blocked
+6. Property status locked until lease ends
+
+
+*Note*: The lister cannot delete or change the property's status until the release period ends.
+
+* The End
