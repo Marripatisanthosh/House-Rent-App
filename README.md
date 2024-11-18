@@ -1,13 +1,13 @@
-The demo video link is : https://drive.google.com/drive/folders/1jcfoMDu58AtXjLnVjrGSAcDe-KTJbDee?usp=sharing
+The demo video link is : https://drive.google.com/file/d/1Kt31OYhetnH_IglvAQHAlAcYxvDxNyvK/view?usp=sharing
 
 1. Introduction
 • Project Title: House Rent Application
 • Team Members:
-1. Deepak Raja R.A
-2. Sairam M
-3. Nikesh K
-4. Omkirupanjan R
-5. Vishnu Vardhan Reddy K
+1. Marripati santhosh
+2. Dabbara chaitanya chowdary
+3. Abishek raj R
+4. Gokul raj G
+
 2. Project Overview
 • Purpose: The House Rent Application aims to streamline the rental process for
 landlords and tenants by providing a centralized, easy-to-use platform. The goal is to
